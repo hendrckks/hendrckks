@@ -2,7 +2,7 @@
 
 ---
 
-A Software Developer with expertise in modern web technologies, specializing in building scalable applications using React, TypeScript, and Firebase. Passionate about creating clean, efficient code and delivering exceptional user experiences with responsive designs powered by TailwindCSS.
+A Software Developer with expertise in modern web technologies, specializing in building scalable applications using React, TypeScript, and Firebase. Passionate about creating clean, efficient code and delivering exceptional user experiences with responsive designs powered by TailwindCSS
 
 ---
 
